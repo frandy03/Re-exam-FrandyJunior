@@ -1,0 +1,10 @@
+{
+  "name": "Pp8.1-FrandyJuniorSantana",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

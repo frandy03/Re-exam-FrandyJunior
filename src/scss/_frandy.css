@@ -1,0 +1,52 @@
+
+
+.header {
+background-image: url(../img/peus.jpg);
+background-size: cover;
+font-family: 'Pontano Sans', sans-serif;
+}
+
+
+.welcome{
+padding-bottom: 10%;
+font-family: 'Pontano Sans', sans-serif;
+}
+
+.welcome h2{
+  font-family: 'Wire One', sans-serif;
+}
+
+.content{
+  padding-bottom: 20%;
+  font-family: 'Pontano Sans', sans-serif;
+  }
+
+.content h3{
+  font-family: 'Wire One', sans-serif;
+}
+
+}
+
+.header a{
+  background-color: #E1006E;
+}
+
+.content a{
+  color: #E1006E;
+}
+.content{
+  padding bottom: 30%;
+}
+.footer{
+  padding-top: 10%;
+  font-family: 'Pontano Sans', sans-serif;
+}
+
+
+.footer a {
+  color: #E1006E;
+}
+
+.footer2 a {
+  color: #E1006E;
+}
